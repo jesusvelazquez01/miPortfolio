@@ -6,14 +6,14 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "jesusvelazquez7014@gmail.com",
-    href: "mailto:jesusvelazquez7014@gmail.com"
+    value: "jv176118@gmail.com",
+    href: "mailto:jv176118@gmail.com"
   },
   {
     icon: Phone,
     label: "Teléfono",
-    value: "+54 388 510-5277",
-    href: "tel:+543885105277"
+    value: "+54 388 547-4266",
+    href: "tel:+543885474266"
   },
   {
     icon: MapPin,

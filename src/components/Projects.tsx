@@ -29,6 +29,19 @@ const projects = [
     stack: ["PHP", "JavaScript", "MySQL"],
     image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/SistemaMuebleria.jpg",
     github: "https://github.com/jesusvelazquez01"
+  },
+  {
+    title: "Sistema de Reservas",
+    description: "Sistema integral de gestión para mueblerías.",
+    features: [
+      "Control de inventario",
+      "Gestión de ventas",
+      "Seguimiento de clientes",
+      "Reportes detallados"
+    ],
+    stack: ["PHP", "JavaScript", "MySQL"],
+    image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/SistemaMuebleria.jpg",
+    github: "https://github.com/jesusvelazquez01"
   }
 ];
 

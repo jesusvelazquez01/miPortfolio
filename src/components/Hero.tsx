@@ -55,7 +55,7 @@ const Hero = () => {
               <Github className="w-5 h-5" />
             </a>
             <a 
-              href="https://www.linkedin.com/in/jesús-edgar-velázquez-cardozo-6b4b7b29a" 
+              href="https://www.linkedin.com/in/jesus-velazquez-09076a209/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-300 hover:scale-110"
@@ -63,7 +63,7 @@ const Hero = () => {
               <Linkedin className="w-5 h-5" />
             </a>
             <a 
-              href="mailto:jesusvelazquez7014@gmail.com"
+              href="mailto:jv176118@gmail.com"
               className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all duration-300 hover:scale-110"
             >
               <Mail className="w-5 h-5" />
