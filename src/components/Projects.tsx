@@ -40,7 +40,7 @@ const projects = [
       "Chat bot con IA para asistencia a adminstrador via UI del sistema y en Telegram"
     ],
     stack: ["Laravel 12","Inertia.js", "React + Typescript", "MySQL","N8N"],
-    image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/SistemaMuebleria.jpg",
+    image: "/reservas.jpeg",
     github: "https://github.com/jesusvelazquez01"
   }
 ];
