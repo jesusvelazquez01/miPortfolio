@@ -15,17 +15,17 @@ const skills = [
   {
     category: "Base de Datos",
     icon: Database,
-    items: ["MySQL"]
+    items: ["MySQL"," PostgreSQL","Supabase"]
   },
   {
     category: "Herramientas",
     icon: Wrench,
-    items: ["Git", "Postman", "VS Code", "NetBeans"]
+    items: ["Git", "Postman", "VS Code","Cursor", "IntelliJ","Claude AI"]
   },
   {
     category: "Metodologías",
     icon: Users,
-    items: ["Agile", "Scrum"]
+    items: ["Scrum"]
   },
   {
     category: "Idiomas",

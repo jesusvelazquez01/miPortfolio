@@ -6,12 +6,11 @@ import { ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     title: "EasyTurno",
-    description: "Sistema para la gestión de turnos en gabinetes informáticos.",
+    description: "Sistema para la gestión de turnos en gabinetes informáticos IES Nuevo Horizonte.",
     features: [
       "Gestión multigabinete",
       "Validación de usuarios",
-      "Envío automático de correos",
-      "Patrón de diseño MVC"
+      "Envío automático de correos"
     ],
     stack: ["Laravel", "JavaScript", "MySQL"],
     image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/EasyTurno.jpg",
@@ -23,23 +22,24 @@ const projects = [
     features: [
       "Control de inventario",
       "Gestión de ventas",
-      "Seguimiento de clientes",
-      "Reportes detallados"
+      "Generacion de reportes",
     ],
-    stack: ["PHP", "JavaScript", "MySQL"],
+    stack: ["Java 21", "Java Server Pages", "MySQL"],
     image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/SistemaMuebleria.jpg",
     github: "https://github.com/jesusvelazquez01"
   },
   {
-    title: "Sistema de Reservas",
-    description: "Sistema integral de gestión para mueblerías.",
+    title: "Sistema de Reservas Internas Ministerio de Planificación Estratégica y Modernización Gob|Jujuy",
+    description: "Sistema integral de Reservas.",
     features: [
-      "Control de inventario",
-      "Gestión de ventas",
-      "Seguimiento de clientes",
-      "Reportes detallados"
+      "Control de reservas",
+      "Gestión de de capacitadores, jefes de area y equipos informaticos",
+      "Roles y permisos segun usuario",
+      "Reportes detallados",
+      "Automatizacion de correos con N8N",
+      "Chat bot con IA para asistencia a adminstrador via UI del sistema y en Telegram"
     ],
-    stack: ["PHP", "JavaScript", "MySQL"],
+    stack: ["Laravel 12","Inertia.js", "React + Typescript", "MySQL","N8N"],
     image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/SistemaMuebleria.jpg",
     github: "https://github.com/jesusvelazquez01"
   }
