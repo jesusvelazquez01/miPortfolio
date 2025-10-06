@@ -26,7 +26,7 @@ const projects = [
     ],
     stack: ["Java 21", "Java Server Pages", "MySQL"],
     image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/SistemaMuebleria.jpg",
-    github: "https://github.com/jesusvelazquez01"
+    github: "https://github.com/jesusvelazquez01/muebleriaSoft"
   },
   {
     title: "Sistema de Reservas Internas Ministerio de Planificación Estratégica y Modernización Gob|Jujuy",
@@ -41,7 +41,7 @@ const projects = [
     ],
     stack: ["Laravel 12","Inertia.js", "React + Typescript", "MySQL","N8N"],
     image: "/reservas.jpeg",
-    github: "https://github.com/jesusvelazquez01"
+    github: "https://github.com/jesusvelazquez01/Sistema_MPEyM"
   }
 ];
 
@@ -54,7 +54,7 @@ const Projects = () => {
             Mis <span className="gradient-text">Proyectos</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Soluciones reales que he desarrollado para resolver problemas del mundo real
+            Soluciones reales que he desarrollado para resolver problemas de clientes
           </p>
         </div>
         
