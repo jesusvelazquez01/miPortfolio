@@ -12,7 +12,7 @@ const Hero = () => {
           <div className="inline-block">
             <div className="w-32 h-32 md:w-40 md:h-40 mx-auto mb-6 rounded-full overflow-hidden border-4 border-primary shadow-[var(--shadow-elegant)]">
               <img 
-                src="https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/foto-portfolio.jpg" 
+                src="/fotoperfil.png" 
                 alt="Jesús Velázquez"
                 className="w-full h-full object-cover"
               />
