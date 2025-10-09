@@ -33,7 +33,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/jesús-edgar-velázquez-cardozo-6b4b7b29a",
+    href: "https://www.linkedin.com/in/jesus-velazquez-09076a209/",
     color: "hover:text-primary"
   }
 ];
@@ -81,7 +81,7 @@ const Contact = () => {
               
               <div className="pt-6 border-t border-border">
                 <p className="text-sm text-muted-foreground mb-4 text-center">
-                  Encuéntrame también en:
+                  Podes encontrarme tambien en:
                 </p>
                 <div className="flex gap-4 justify-center">
                   {socialLinks.map((social) => (

@@ -5,20 +5,20 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "EasyTurno",
-    description: "Sistema para la gestión de turnos en gabinetes informáticos IES Nuevo Horizonte.",
+    title: "Administración de Salas y Elementos",
+    description: "Sistema para la gestión de elementos y salas del IES Nuevo Horizonte.",
     features: [
       "Gestión multigabinete",
       "Validación de usuarios",
       "Envío automático de correos"
     ],
-    stack: ["Laravel", "JavaScript", "MySQL"],
+    stack: ["Laravel","Blade", "MySQL"],
     image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/EasyTurno.jpg",
     github: "https://github.com/jesusvelazquez01/EasyTurno"
   },
   {
-    title: "Sistema Mueblería",
-    description: "Sistema integral de gestión para mueblerías.",
+    title: "Sistema para Carpinteria",
+    description: "Sistema integral de gestión para una Carpitenia local.",
     features: [
       "Control de inventario",
       "Gestión de ventas",
@@ -54,7 +54,7 @@ const Projects = () => {
             Mis <span className="gradient-text">Proyectos</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Soluciones reales que he desarrollado para resolver problemas de clientes
+            Soluciones que he desarrollado para resolver problemas de clientes
           </p>
         </div>
         
