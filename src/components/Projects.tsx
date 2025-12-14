@@ -13,7 +13,7 @@ const projects = [
       "Envío automático de reservas con Google Calendar usando N8N"
     ],
     stack: ["Laravel 12","React 19 + Typescript","N8N", "MySQL"],
-    image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/IES-GESTION.png",
+    image: "/IES-GESTION.png",
     github: "https://github.com/jesusvelazquez01/EasyTurno"
   },
   {
