@@ -24,11 +24,11 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
-            Desarrollador de Software junior
+           Tec. Sup. en Desarrollo de Software
           </p>
           
           <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Estudiante y freelancer especializado en crear soluciones prácticas, limpias y bien pensadas. 
+            Me gusta en crear soluciones prácticas, limpias y bien pensadas. 
             Me interesa aprender nuevas tecnologías y trabajar en equipo para resolver problemas reales.
           </p>
           

@@ -10,10 +10,10 @@ const projects = [
     features: [
       "Gestión multigabinete",
       "Validación de usuarios",
-      "Envío automático de correos"
+      "Envío automático de reservas con Google Calendar usando N8N"
     ],
-    stack: ["Laravel","Blade", "MySQL"],
-    image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/EasyTurno.jpg",
+    stack: ["Laravel 12","React 19 + Typescript","N8N", "MySQL"],
+    image: "https://jesusvelazquez01.github.io/PortfolioSoftVelazquezJesus.github.io/fotos/IES-GESTION.jpg",
     github: "https://github.com/jesusvelazquez01/EasyTurno"
   },
   {
@@ -36,8 +36,7 @@ const projects = [
       "Gestión de de capacitadores, jefes de area y equipos informaticos",
       "Roles y permisos segun usuario",
       "Reportes detallados",
-      "Automatizacion de correos con N8N",
-      "Chat bot con IA para asistencia a adminstrador via UI del sistema y en Telegram"
+      "Automatizacion de correos y reservas con Google calendar con N8N",
     ],
     stack: ["Laravel 12","Inertia.js", "React + Typescript", "MySQL","N8N"],
     image: "/reservas.jpeg",
