@@ -39,7 +39,7 @@ const projects = [
       "Automatizacion de correos y reservas con Google calendar con N8N",
     ],
     stack: ["Laravel 12","Inertia.js", "React + Typescript", "MySQL","N8N"],
-    image: "/reservas.jpeg",
+    image: "/MPEYM.png",
     github: "https://github.com/jesusvelazquez01/Sistema_MPEyM"
   }
 ];
